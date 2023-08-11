@@ -3,7 +3,8 @@ package io.ptrojan.highestScoringWord;
 import java.util.HashMap;
 import java.util.Map;
 
-public class Solution {
+public class
+Solution {
 
     public static String high(String s) {
         Map<String, Integer> alphabetMap = new HashMap<>();
